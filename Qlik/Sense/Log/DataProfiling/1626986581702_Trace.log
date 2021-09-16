@@ -1,0 +1,2 @@
+Logger	Severity	Date	MicroSeconds	ipAddress	AppId	UserId	Message
+Trace	INFO	2021-07-22T16:57:19.785-04:00	993223712	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GetTargetTables failed, input model, errorClass: RpcError detectedAsNotification:true Error json:  {"code":1005,"name":"DataProfiling.Error.ReloadInProgress","message":"Internal reload is in progress","notification":true}

@@ -1,0 +1,10 @@
+Logger	Severity	Date	MicroSeconds	Message
+System	INFO	2021-06-24T14:26:17.538-04:00	2361004378.3	Starting DataPrep Service, version 3.316.2
+System	INFO	2021-06-24T14:26:17.541-04:00	2361007199.1	Configuration dataPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense, logLevel=info, logToConsole=undefined, logPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense\Log, isSecure=false, ttl=-1, keepAlive=-1, port=9072, hostname=127.0.0.1, engineport=9076, cacheFolderName=DataPrepAppCache, cacheConnectionName=DataPrepAppCache, qvdCleanupInterval=3600, qvdExpirationDays=7
+System	INFO	2021-06-24T14:26:17.542-04:00	2361007518.3	Creating server
+System	INFO	2021-06-24T14:26:17.542-04:00	2361008110.1	Setting up the server 
+System	INFO	2021-06-24T14:26:17.896-04:00	2361361483.2	Server listening at port 9072
+System	INFO	2021-06-24T14:44:07.103-04:00	3430549811.4	Worker - isWebPacked: true, workerFilePath: "C:\Users\leninne.pirovano\AppData\Local\Programs\Qlik\Sense\DataPrepService\Worker.bundle.js", this.useThreads: true
+System	INFO	2021-06-24T14:44:07.106-04:00	3430553368.2	Spawned 1 child async worker pool (12 were available)
+System	INFO	2021-06-24T15:26:17.581-04:00	5961028126.1	QVD caching cleanup job:  Finished in 0.015 seconds with error:  ENOENT: no such file or directory, scandir 'C:\Users\leninne.pirovano\Documents\Qlik\Sense\Apps\DataPrepAppCache'
+System	INFO	2021-06-24T16:26:17.571-04:00	9561034472.6	QVD caching cleanup job:  Finished in 0.011 seconds with error:  ENOENT: no such file or directory, scandir 'C:\Users\leninne.pirovano\Documents\Qlik\Sense\Apps\DataPrepAppCache'

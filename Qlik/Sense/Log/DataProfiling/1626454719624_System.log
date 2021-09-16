@@ -1,0 +1,11 @@
+Logger	Severity	Date	MicroSeconds	Message
+System	INFO	2021-07-16T12:58:39.626-04:00	691242459719.7	Starting DataPrep Service, version 3.316.2
+System	INFO	2021-07-16T12:58:39.629-04:00	691242463415.4	Configuration dataPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense, logLevel=info, logToConsole=undefined, logPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense\Log, isSecure=false, ttl=-1, keepAlive=-1, port=9072, hostname=127.0.0.1, engineport=9076, cacheFolderName=DataPrepAppCache, cacheConnectionName=DataPrepAppCache, qvdCleanupInterval=3600, qvdExpirationDays=7
+System	INFO	2021-07-16T12:58:39.630-04:00	691242463753.6	Creating server
+System	INFO	2021-07-16T12:58:39.630-04:00	691242464352.8	Setting up the server 
+System	INFO	2021-07-16T12:58:40.062-04:00	691242896236.4	Server listening at port 9072
+System	INFO	2021-07-16T13:58:38.477-04:00	694842694036.3	QVD caching cleanup job:  Finished in 0.16 seconds. Totally 0 files and 0 bytes cleaned
+System	INFO	2021-07-16T14:58:38.350-04:00	698442561906.1	QVD caching cleanup job:  Finished in 0.068 seconds. Totally 0 files and 0 bytes cleaned
+System	INFO	2021-07-16T15:58:38.383-04:00	702042581662.5	QVD caching cleanup job:  Finished in 0.084 seconds. Totally 0 files and 0 bytes cleaned
+System	INFO	2021-07-16T16:51:43.178-04:00	705227377059.4	Worker - isWebPacked: true, workerFilePath: "C:\Users\leninne.pirovano\AppData\Local\Programs\Qlik\Sense\DataPrepService\Worker.bundle.js", this.useThreads: true
+System	INFO	2021-07-16T16:51:43.195-04:00	705227393584.3	Spawned 1 child async worker pool (12 were available)

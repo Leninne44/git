@@ -1,0 +1,8 @@
+Logger	Severity	Date	MicroSeconds	Message
+System	INFO	2021-06-25T13:58:28.051-04:00	27889347.3	Starting DataPrep Service, version 3.316.2
+System	INFO	2021-06-25T13:58:28.054-04:00	27892907.7	Configuration dataPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense, logLevel=info, logToConsole=undefined, logPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense\Log, isSecure=false, ttl=-1, keepAlive=-1, port=9072, hostname=127.0.0.1, engineport=9076, cacheFolderName=DataPrepAppCache, cacheConnectionName=DataPrepAppCache, qvdCleanupInterval=3600, qvdExpirationDays=7
+System	INFO	2021-06-25T13:58:28.055-04:00	27893328.9	Creating server
+System	INFO	2021-06-25T13:58:28.056-04:00	27894181.8	Setting up the server 
+System	INFO	2021-06-25T13:58:28.480-04:00	28318663.7	Server listening at port 9072
+System	INFO	2021-06-25T14:21:35.507-04:00	1415269054.3	Worker - isWebPacked: true, workerFilePath: "C:\Users\leninne.pirovano\AppData\Local\Programs\Qlik\Sense\DataPrepService\Worker.bundle.js", this.useThreads: true
+System	INFO	2021-06-25T14:21:35.513-04:00	1415274610.5	Spawned 1 child async worker pool (12 were available)

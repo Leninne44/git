@@ -1,0 +1,15 @@
+Logger	Severity	Date	MicroSeconds	AppId	UserId	Message
+Perf	INFO	2021-08-20T13:11:54.210-04:00	684344127801.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	MASTER_LIB_PARSE_MEASURES count: 6
+Perf	INFO	2021-08-20T13:11:54.211-04:00	684344128795.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 43
+Perf	INFO	2021-08-20T13:11:54.307-04:00	684344224602.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 43 Execution time:  96
+Perf	INFO	2021-08-20T13:11:54.307-04:00	684344224734.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 43
+Perf	INFO	2021-08-20T13:11:54.374-04:00	684344291482.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 43 Execution time:  67
+Perf	INFO	2021-08-20T13:11:54.374-04:00	684344291585.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 59
+Perf	INFO	2021-08-20T13:11:54.438-04:00	684344355961.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 59 Execution time:  64
+Perf	INFO	2021-08-20T13:11:54.438-04:00	684344356058.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 57
+Perf	INFO	2021-08-20T13:11:54.501-04:00	684344419108.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 57 Execution time:  63
+Perf	INFO	2021-08-20T13:11:54.501-04:00	684344419198.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 59
+Perf	INFO	2021-08-20T13:11:54.563-04:00	684344481006.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 59 Execution time:  62
+Perf	INFO	2021-08-20T13:11:54.563-04:00	684344481103.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 57
+Perf	INFO	2021-08-20T13:11:54.617-04:00	684344535015.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	PARSE_EXPRESSION length:: 57 Execution time:  54
+Perf	INFO	2021-08-20T13:11:54.617-04:00	684344535117.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\comtrade	-	MASTER_LIB_PARSE_MEASURES count: 6 Execution time:  406

@@ -1,0 +1,7 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210730T125027.456-0400	127.0.0.1	1.10.0	Global	INFO	endpoint succesfully to loaded, /health
+2	20210730T125027.462-0400	127.0.0.1	1.10.0	Global	INFO	endpoint succesfully to loaded, /about
+3	20210730T125027.462-0400	127.0.0.1	1.10.0	Global	INFO	endpoint succesfully to loaded, /v1/openapi
+4	20210730T125028.627-0400	127.0.0.1	1.10.0	Global	INFO	endpoint succesfully to loaded, /v1/extensions
+5	20210730T125028.630-0400	127.0.0.1	1.10.0	Global	INFO	Web Extension Service listening on: http://127.0.0.1:9034
+6	20210730T125028.631-0400	127.0.0.1	1.10.0	Global	INFO	Web Extension Service waiting for input...

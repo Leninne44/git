@@ -1,0 +1,50 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210805T125856.174-0400	localhost	0.1	Global	INFO	Connector Registry Proxy is launched with the following parameters:
+    hostName = localhost
+    servicePort = 9051
+    secure = false
+    logPath = C:\Users\leninne.pirovano\Documents\Qlik\Sense\Log
+    context = desktop
+    mockTarget = false
+    ssl = 0
+    g2Config = (null),
+2	20210805T125856.269-0400	localhost	0.1	Global	INFO	Connector Registry Proxy service is listening on port 9051,
+3	20210805T125953.989-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+4	20210805T125953.995-0400	localhost	0.1	Global	WARN	Error during retrieving connector from C:\Program Files\Common Files\Qlik\Custom Data,Error: ENOENT: no such file or directory, scandir 'C:\Program Files\Common Files\Qlik\Custom Data'
+5	20210805T125953.999-0400	localhost	0.1	Global	WARN	Error during retrieving connector from C:\Program Files (x86)\Common Files\Qlik\Custom Data,Error: ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Common Files\Qlik\Custom Data'
+6	20210805T125954.399-0400	localhost	0.1	Global	INFO	Found connector C:\Users\leninne.pirovano\AppData\Local\Programs\Common Files\Qlik\Custom Data\QvRestConnector\QvRestConnector.exe with displayName REST Connector,
+7	20210805T125954.686-0400	localhost	0.1	Global	INFO	Found connector C:\Users\leninne.pirovano\AppData\Local\Programs\Common Files\Qlik\Custom Data\QvWebStorageProviderConnectorPackage\QvWebStorageProviderConnectorPackage.exe with displayName Web Storage Provider Connector,
+8	20210805T125954.867-0400	localhost	0.1	Global	INFO	Found connector C:\Users\leninne.pirovano\AppData\Local\Programs\Common Files\Qlik\Custom Data\QvSalesforceConnector\QvSalesforceConnector.exe with description Qlik Salesforce Connector,
+9	20210805T125954.868-0400	localhost	0.1	Global	INFO	Found connector C:\Users\leninne.pirovano\AppData\Local\Programs\Common Files\Qlik\Custom Data\QvOdbcConnectorPackage\QvOdbcConnectorPackage.exe with description Qlik ODBC Connector Package,
+10	20210805T125954.869-0400	localhost	0.1	Global	INFO	Found connector C:\Users\leninne.pirovano\AppData\Local\Programs\Common Files\Qlik\Custom Data\QvEssbaseConnector\QvEssbaseConnector.exe with description Qlik Essbase Connector,
+11	20210805T125954.869-0400	localhost	0.1	Global	INFO	Found connector C:\Users\leninne.pirovano\AppData\Local\Programs\Common Files\Qlik\Custom Data\QvDataMarketConnector\QvDataMarketConnector.exe with description Qlik DataMarket Connector,
+12	20210805T125955.551-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+13	20210805T125956.598-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+14	20210805T125957.192-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+15	20210805T125957.662-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+16	20210805T125958.129-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+17	20210805T130429.243-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+18	20210805T130429.789-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+19	20210805T130432.367-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+20	20210805T130433.151-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+21	20210805T130433.793-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+22	20210805T130434.423-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+23	20210805T130547.591-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+24	20210805T134640.456-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+25	20210805T134640.887-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+26	20210805T134641.370-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+27	20210805T134641.868-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+28	20210805T134642.345-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+29	20210805T134642.796-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+30	20210805T135606.387-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+31	20210805T135606.981-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+32	20210805T135607.402-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+33	20210805T135607.936-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+34	20210805T135608.431-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+35	20210805T135608.900-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+36	20210805T135613.179-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+37	20210805T135613.523-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+38	20210805T135613.861-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+39	20210805T135614.273-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+40	20210805T135614.729-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,
+41	20210805T135615.204-0400	localhost	0.1	Global	INFO	GET path: /v1/connectors?customdatapath=C%3A%5CUsers%5Cleninne.pirovano%5CAppData%5CLocal%5CPrograms%5CCommon%20Files%5CQlik%5CCustom%20Data,

@@ -1,0 +1,4 @@
+Logger	Severity	Date	MicroSeconds	Message
+system	INFO	2021-08-20T13:03:14.967-04:00	683825131993	Starting Precedents Service version 3.7.0
+system	INFO	2021-08-20T13:03:14.974-04:00	683825138942.9	Start cayley configuration {"version":"0.7.7-hotfix2","host":"localhost","port":64210,"db":"bolt","start":true,"pruningInterval":1,"dbPath":"C:\\Users\\leninne.pirovano\\Documents\\Qlik\\Sense\\Apps\\precedents\\boltdb","useGrpc":false}
+system	INFO	2021-08-20T13:03:17.898-04:00	683828063168.1	precedents-service is listening on http://127.0.0.1:9054

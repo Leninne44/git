@@ -1,0 +1,3 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210709T145022.778-0400	127.0.0.1	1.15.1	Global	INFO	Hub Service listening on: http://127.0.0.1:9071
+2	20210709T145022.783-0400	127.0.0.1	1.15.1	Global	INFO	Hub Service waiting for input...

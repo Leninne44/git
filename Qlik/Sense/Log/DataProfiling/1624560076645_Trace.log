@@ -1,0 +1,2 @@
+Logger	Severity	Date	MicroSeconds	ipAddress	AppId	UserId	Message
+Trace	INFO	2021-06-24T14:49:03.005-04:00	3726450097.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Qtde de estoque atual por Familia	-	GetTargetTables failed, input model, errorClass: RpcError detectedAsNotification:true Error json:  {"code":1005,"name":"DataProfiling.Error.ReloadInProgress","message":"Internal reload is in progress","notification":true}

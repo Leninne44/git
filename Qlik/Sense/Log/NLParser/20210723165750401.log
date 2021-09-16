@@ -1,0 +1,16 @@
+{"level": "WARNING", "timestamp": "2021-07-23T16:57:50.403480Z", "name": "nlparser.main", "message": "Using previous-generation model; this is probably no longer going to work"}
+{"level": "INFO", "timestamp": "2021-07-23T16:57:50.405475Z", "name": "nlparser.main", "message": "Dependency service URIs:\nDPS:               http://localhost:9072\nnl-app-search:     http://localhost:9085\nnl-parser-model:   None\nQIX (for test UI): ws://localhost:9076"}
+{"level": "INFO", "timestamp": "2021-07-23T16:57:53.575129Z", "name": "transformers.file_utils", "message": "TensorFlow version 2.1.2 available."}
+{"level": "INFO", "timestamp": "2021-07-23T16:57:54.324417Z", "name": "nlparser.nlp.spacy_nlp", "message": "Loading language model en_core_web_md.."}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.244266Z", "name": "nlparser.nlp.spacy_nlp", "message": "Initializing keywords vectors"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.570061Z", "name": "nlparser.nlp.spacy_nlp", "message": "Finished loading language model"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.570061Z", "name": "nlparser.parsing.rasa_tools", "message": "Loading RASA interpreter en for language en"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.580157Z", "name": "nlparser.nlp.spacy_rasa_component", "message": "loading local spacy language model en"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.580157Z", "name": "nlparser.minirasa.nlu.components", "message": "Added 'LocalSpacyNLP' to component cache. Key 'LocalSpacyNLP-en'."}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.580157Z", "name": "nlparser.minirasa.nlu.components", "message": "Added 'KeywordNormalizer' to component cache. Key 'KeywordNormalizer'."}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:08.588198Z", "name": "nlparser.nlp.tf_intent_and_srl", "message": "Loading Tensorflow model in-process from C:\\Users\\leninne.pirovano\\AppData\\Local\\Programs\\Qlik\\Sense\\NLParser\\./models\\en\\model_nl_v1\\component_3_LSTMEntityAndIntentExtractor-model.h5"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:10.970440Z", "name": "nlparser.minirasa.nlu.components", "message": "Added 'KeywordDenormalizer' to component cache. Key 'KeywordDenormalizer'."}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:10.970440Z", "name": "nlparser.minirasa.nlu.components", "message": "Added 'OutputEntityMaker' to component cache. Key 'OutputEntityMaker'."}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:11.010849Z", "name": "nlparser.reverseindex", "message": "DPS uri: http://localhost:9072"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:11.010849Z", "name": "nlparser.reverseindex", "message": "DPS routing enabled: False"}
+{"level": "INFO", "timestamp": "2021-07-23T16:58:11.010849Z", "name": "nlparser.main", "message": "Starting up the REST service on port 9056"}

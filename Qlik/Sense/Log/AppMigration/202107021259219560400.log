@@ -1,0 +1,6 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210702T125921.961-0400	127.0.0.1	4.12.2	Global	INFO	Configuration: {"context":"desktop","version":"4.12.2","migrationVersion":"1.0.0","host":"127.0.0.1","port":"9074","batchSize":200,"debug":false,"timeout":600000,"open":{"noData":true,"port":"4848","isSecure":false,"identity":"migration-service"},"ssl":0,"logPath":"C:\\Users\\leninne.pirovano\\Documents\\Qlik\\Sense\\Log"}
+2	20210702T125921.966-0400	127.0.0.1	4.12.2	Global	INFO	Refreshing patches and hash...
+3	20210702T125922.165-0400	127.0.0.1	4.12.2	Global	INFO	Content hash is: 504d4e39a7133ee172fbe29aa58348b1e4054149
+4	20210702T125922.290-0400	127.0.0.1	4.12.2	Global	INFO	Listening on http://127.0.0.1:9074
+5	20210702T125922.851-0400	127.0.0.1	4.12.2	Global	INFO	Engine configuration updated to: {"noData":true,"port":9076,"isSecure":false,"identity":"migration-service","host":"127.0.0.1"}

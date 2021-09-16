@@ -1,0 +1,4 @@
+Logger	Severity	Date	MicroSeconds	AppId	UserId	Message
+Engine	INFO	2021-07-22T16:42:00.996-04:00	74843158.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	request OpenDoc
+Engine	INFO	2021-07-22T16:42:00.999-04:00	74846647.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Response {"jsonrpc":"2.0","method":"OnConnected","params":{"qSessionState":"SESSION_ATTACHED"}} Engine method 'OnConnected', response time: -1
+Engine	INFO	2021-07-22T16:42:01.015-04:00	74862565.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Response {"jsonrpc":"2.0","id":1,"result":{"qReturn":{"qType":"Doc","qHandle":1,"qGenericId":"C:\\Users\\leninne.pirovano\\OneDrive - SCHEFFER\\Documentos\\Qlik\\Sense\\Apps\\Analise US.qvf"}}} Engine method 'OpenDoc', response time: 22

@@ -1,0 +1,69 @@
+Logger	Severity	Date	MicroSeconds	ipAddress	AppId	UserId	Message
+Audit	INFO	2021-08-06T13:02:26.727-04:00	79622629814.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session Create: in context ws
+Audit	INFO	2021-08-06T13:02:26.727-04:00	79622630574.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Client connected /dataprepservice/app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fsense%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication Open sessions: 1 Open rest initiated sessions: 0 Open ws initiated sessions: 1 Total client ws connections: 1 # of clients connected to application: 1
+Audit	INFO	2021-08-06T13:02:26.742-04:00	79622645098.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session Attach: in context rest
+Audit	INFO	2021-08-06T13:02:26.755-04:00	79622658367.9	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Engine connection established. Active engine connections: 1
+Audit	INFO	2021-08-06T13:02:46.755-04:00	79642658328.7	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session Create: in context ws
+Audit	INFO	2021-08-06T13:02:46.756-04:00	79642659195.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	Client connected /dataprepservice/app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5Cteste.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fsense%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255Cteste.qvf%2Ffeature%2Fdesktop_authentication Open sessions: 2 Open rest initiated sessions: 0 Open ws initiated sessions: 2 Total client ws connections: 2 # of clients connected to application: 1
+Audit	INFO	2021-08-06T13:02:46.774-04:00	79642676887.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session Attach: in context rest
+Audit	INFO	2021-08-06T13:02:46.776-04:00	79642678853.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	Engine connection established. Active engine connections: 2
+Audit	INFO	2021-08-06T13:11:58.380-04:00	80195036060.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:11:58.383-04:00	80195040043.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:21:58.393-04:00	80795043379.7	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:21:58.394-04:00	80795044252.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:31:58.414-04:00	81395061161.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:31:58.414-04:00	81395062003.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:41:58.414-04:00	81995061709.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:41:58.418-04:00	81995065043.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:41:58.436-04:00	81995083520.6	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	DPS Rest session has reached expiry, clearing rest session
+Audit	INFO	2021-08-06T13:41:58.442-04:00	81995089352.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	DPS Rest session has reached expiry, clearing rest session
+Audit	INFO	2021-08-06T13:51:58.427-04:00	82595074440.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T13:51:58.428-04:00	82595075112.4	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:01:58.423-04:00	83195084604.6	-	a43bde08-72fe-6249-d378-3e082278	UserDirectory = INTERNAL; UserID= sa_engine	Engine connection established. Active engine connections: 3
+Audit	INFO	2021-08-06T14:01:58.426-04:00	83195086963	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:01:58.426-04:00	83195087169.6	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:01:58.537-04:00	83195198296.6	-	a43bde08-72fe-6249-d378-3e082278	UserDirectory = INTERNAL; UserID= sa_engine	Engine connection released. Active engine connections: 2
+Audit	INFO	2021-08-06T14:11:58.435-04:00	83795095967	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:11:58.438-04:00	83795098123.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:21:58.438-04:00	84395097034.9	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:21:58.439-04:00	84395097701.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:31:58.438-04:00	84995096350	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:31:58.442-04:00	84995100426.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:41:58.451-04:00	85595109451.6	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:41:58.452-04:00	85595110296.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:51:58.470-04:00	86195110809.4	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T14:51:58.471-04:00	86195111716	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:01:58.420-04:00	86795058428.3	-	25b0326f-30fd-b3a5-4d08-c4210625	UserDirectory = INTERNAL; UserID= sa_engine	Engine connection established. Active engine connections: 3
+Audit	INFO	2021-08-06T15:01:58.480-04:00	86795118930.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:01:58.481-04:00	86795119452.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:01:58.536-04:00	86795174511.3	-	25b0326f-30fd-b3a5-4d08-c4210625	UserDirectory = INTERNAL; UserID= sa_engine	Engine connection released. Active engine connections: 2
+Audit	INFO	2021-08-06T15:11:58.484-04:00	87395127228.9	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:11:58.488-04:00	87395130389	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:21:58.487-04:00	87995132481.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:21:58.492-04:00	87995136789.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:31:58.500-04:00	88595146421.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:31:58.501-04:00	88595147191.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:41:58.515-04:00	89195157937.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:41:58.518-04:00	89195161072.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:51:58.530-04:00	89795168803.6	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T15:51:58.530-04:00	89795169731.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:01:58.436-04:00	90395057924.2	-	66b7c157-083e-6980-7017-0ef0137c	UserDirectory = INTERNAL; UserID= sa_engine	Engine connection established. Active engine connections: 3
+Audit	INFO	2021-08-06T16:01:58.538-04:00	90395159590.9	-	66b7c157-083e-6980-7017-0ef0137c	UserDirectory = INTERNAL; UserID= sa_engine	Engine connection released. Active engine connections: 2
+Audit	INFO	2021-08-06T16:01:58.554-04:00	90395175900.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:01:58.555-04:00	90395176546.6	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:11:58.560-04:00	90995178840	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:11:58.564-04:00	90995182449.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:21:58.562-04:00	91595180622.8	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:21:58.563-04:00	91595181402.6	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:31:58.572-04:00	92195193058.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:31:58.573-04:00	92195194143.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:41:58.569-04:00	92795193540.3	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:41:58.572-04:00	92795196892.4	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:51:58.571-04:00	93395197019.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:51:58.572-04:00	93395197754.4	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	RPC Session is inactive
+Audit	INFO	2021-08-06T16:56:58.402-04:00	93695028347.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	Client closed connection, clearing session...}
+Audit	INFO	2021-08-06T16:56:58.486-04:00	93695112300.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	Engine connection released. Active engine connections: 1
+Audit	INFO	2021-08-06T16:56:58.491-04:00	93695117329.4	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	Client closed connection: C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste Open sessions: 1 Open rest initiated sessions: 0 Open ws initiated sessions: 1 Total client ws connections: 1 # of clients connected to application: 0
+Audit	INFO	2021-08-06T16:56:58.496-04:00	93695122737.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Client closed connection, clearing session...}
+Audit	INFO	2021-08-06T16:56:58.498-04:00	93695124860.5	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Engine connection released. Active engine connections: 0
+Audit	INFO	2021-08-06T16:56:58.499-04:00	93695125451.2	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	Client closed connection: C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US Open sessions: 0 Open rest initiated sessions: 0 Open ws initiated sessions: 0 Total client ws connections: 0 # of clients connected to application: 0

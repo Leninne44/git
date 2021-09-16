@@ -1,0 +1,4 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210709T145022.984-0400	localhost	1.28.0	Global	INFO	Configuration: {"context":"desktop","version":"1.28.0","port":"9078","host":"localhost","configPath":"C:\\Users\\leninne.pirovano\\AppData\\Local\\Programs\\Qlik\\Sense\\AboutService","logPath":"C:\\Users\\leninne.pirovano\\Documents\\Qlik\\Sense\\Log","mode":"prod","ssl":0}
+2	20210709T145022.994-0400	localhost	1.28.0	Global	INFO	Starting about server!
+3	20210709T145023.014-0400	localhost	1.28.0	Global	INFO	About Service listening on: http://127.0.0.1:9078

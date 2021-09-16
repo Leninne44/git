@@ -1,0 +1,7 @@
+Logger	Severity	Date	MicroSeconds	AppId	UserId	Message
+Perf	INFO	2021-08-05T16:16:13.044-04:00	4848046716.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	MASTER_LIB_PARSE_DIMENSIONS count: 1
+Perf	INFO	2021-08-05T16:16:13.045-04:00	4848048061.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	PARSE_EXPRESSION length:: 11
+Perf	INFO	2021-08-05T16:16:13.138-04:00	4848141185.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	PARSE_EXPRESSION length:: 11 Execution time:  93
+Perf	INFO	2021-08-05T16:16:13.138-04:00	4848141304.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	PARSE_EXPRESSION length:: 10
+Perf	INFO	2021-08-05T16:16:13.199-04:00	4848201749.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	PARSE_EXPRESSION length:: 10 Execution time:  61
+Perf	INFO	2021-08-05T16:16:13.199-04:00	4848201877.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\teste	-	MASTER_LIB_PARSE_DIMENSIONS count: 1 Execution time:  154

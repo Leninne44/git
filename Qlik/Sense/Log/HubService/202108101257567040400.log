@@ -1,0 +1,10 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210810T125756.767-0400	127.0.0.1	1.15.1	Global	INFO	Hub Service listening on: http://127.0.0.1:9071
+2	20210810T125756.797-0400	127.0.0.1	1.15.1	Global	INFO	Hub Service waiting for input...
+3	20210810T125925.865-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session
+4	20210810T125925.967-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session
+5	20210810T130131.958-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session
+6	20210810T161617.150-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session
+7	20210810T161642.516-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session
+8	20210810T161649.047-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session
+9	20210810T161649.048-0400	127.0.0.1	1.15.1	Global	INFO	Successfully closed the engine session

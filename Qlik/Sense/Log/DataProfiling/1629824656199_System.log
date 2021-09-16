@@ -1,0 +1,7 @@
+Logger	Severity	Date	MicroSeconds	Message
+System	INFO	2021-08-24T13:04:16.200-04:00	1029487091035.8	Starting DataPrep Service, version 3.316.2
+System	INFO	2021-08-24T13:04:16.203-04:00	1029487093984	Configuration dataPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense, logLevel=info, logToConsole=undefined, logPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense\Log, isSecure=false, ttl=-1, keepAlive=-1, port=9072, hostname=127.0.0.1, engineport=9076, cacheFolderName=DataPrepAppCache, cacheConnectionName=DataPrepAppCache, qvdCleanupInterval=3600, qvdExpirationDays=7
+System	INFO	2021-08-24T13:04:16.203-04:00	1029487094292.5	Creating server
+System	INFO	2021-08-24T13:04:16.204-04:00	1029487094892.6	Setting up the server 
+System	INFO	2021-08-24T13:04:16.654-04:00	1029487545120.4	Server listening at port 9072
+System	INFO	2021-08-24T14:04:14.579-04:00	1033087291203.9	QVD caching cleanup job:  Finished in 0.144 seconds. Totally 0 files and 0 bytes cleaned

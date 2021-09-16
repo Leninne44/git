@@ -1,0 +1,2 @@
+Logger	Severity	Date	MicroSeconds	AppId	UserId	Message
+Engine	INFO	2021-08-12T16:32:19.916-04:00	5135057051.6	68081cbe-4e32-bf09-569f-7eb87231	UserDirectory = INTERNAL; UserID= sa_engine	Response {"jsonrpc":"2.0","method":"OnConnected","params":{"qSessionState":"SESSION_CREATED"}} Engine method 'OnConnected', response time: -1

@@ -1,0 +1,89 @@
+Logger	Severity	Date	MicroSeconds	AppId	UserId	Message
+Perf	INFO	2021-06-25T14:21:33.335-04:00	1413097496.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_DOCUMENT
+Perf	INFO	2021-06-25T14:21:33.336-04:00	1413098095.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_DOCUMENT Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.336-04:00	1413098468.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_FEATURE_FLAGS
+Perf	INFO	2021-06-25T14:21:33.338-04:00	1413100050.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_QUEUE
+Perf	INFO	2021-06-25T14:21:33.338-04:00	1413100347.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_QUEUE Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.339-04:00	1413100704.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	INIT_DATA_MANAGER
+Perf	INFO	2021-06-25T14:21:33.339-04:00	1413101056.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	INIT_DATA_MANAGER Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.339-04:00	1413101325.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_APPLICATION
+Perf	INFO	2021-06-25T14:21:33.340-04:00	1413102362	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SCRIPT_GEN_SETUP
+Perf	INFO	2021-06-25T14:21:33.341-04:00	1413102979	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SCRIPT_GEN_SETUP Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.341-04:00	1413103211.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	INIT_LOAD_SCRIPT
+Perf	INFO	2021-06-25T14:21:33.344-04:00	1413105550.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	INIT_LOAD_SCRIPT Execution time:  2
+Perf	INFO	2021-06-25T14:21:33.344-04:00	1413106389.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_APPLICATION...
+Perf	INFO	2021-06-25T14:21:33.345-04:00	1413107008	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SETUP_GEO_CONNECTIONS
+Perf	INFO	2021-06-25T14:21:33.345-04:00	1413107393.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SETUP_GEO_CONNECTIONS Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.346-04:00	1413107576.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	STORE_CONCATENATE_SOURCES
+Perf	INFO	2021-06-25T14:21:33.346-04:00	1413107866.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	STORE_CONCATENATE_SOURCES Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.349-04:00	1413110642.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_DATA
+Perf	INFO	2021-06-25T14:21:33.349-04:00	1413111305.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Reload Application complete, performance summary follows:
+Perf	INFO	2021-06-25T14:21:33.349-04:00	1413111522.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	{"value":"GET_DOCUMENT","steps":[{"value":"GET_FEATURE_FLAGS","steps":[{"value":"RELOAD_QUEUE","steps":[],"duration_ms":0},{"value":"INIT_DATA_MANAGER","steps":[],"duration_ms":0},{"value":"RELOAD_APPLICATION","steps":[{"value":"SCRIPT_GEN_SETUP","steps":[],"duration_ms":0},{"value":"INIT_LOAD_SCRIPT","steps":[],"duration_ms":2}],"duration_ms":-1}],"duration_ms":-1}],"duration_ms":0}
+Perf	INFO	2021-06-25T14:21:33.544-04:00	1413306351.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_DATA Execution time:  195
+Perf	INFO	2021-06-25T14:21:33.545-04:00	1413306580.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	UPDATE_CURRENT_KEYS
+Perf	INFO	2021-06-25T14:21:33.545-04:00	1413307374.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	UPDATE_CURRENT_KEYS Execution time:  0
+Perf	INFO	2021-06-25T14:21:33.546-04:00	1413308085	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_APPLICATION... Execution time:  201
+Perf	INFO	2021-06-25T14:21:33.546-04:00	1413308320.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	{"value":"RELOAD_APPLICATION...","steps":[{"value":"SETUP_GEO_CONNECTIONS","steps":[],"duration_ms":0},{"value":"STORE_CONCATENATE_SOURCES","steps":[],"duration_ms":0},{"value":"RELOAD_DATA","steps":[],"duration_ms":195},{"value":"UPDATE_CURRENT_KEYS","steps":[],"duration_ms":0}],"duration_ms":201,"asyncBranch":true}
+Perf	INFO	2021-06-25T14:21:34.391-04:00	1414153173.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_DOCUMENT
+Perf	INFO	2021-06-25T14:21:34.392-04:00	1414153801.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_DOCUMENT Execution time:  0
+Perf	INFO	2021-06-25T14:21:34.392-04:00	1414154065.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_FEATURE_FLAGS
+Perf	INFO	2021-06-25T14:21:35.481-04:00	1415242773.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_QUEUE
+Perf	INFO	2021-06-25T14:21:35.481-04:00	1415243112.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_QUEUE Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.481-04:00	1415243382.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	INIT_DATA_MANAGER
+Perf	INFO	2021-06-25T14:21:35.482-04:00	1415243729.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	INIT_DATA_MANAGER Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.482-04:00	1415243996.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_APPLICATION
+Perf	INFO	2021-06-25T14:21:35.482-04:00	1415244350.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SCRIPT_GEN_SETUP
+Perf	INFO	2021-06-25T14:21:35.483-04:00	1415244626.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SCRIPT_GEN_SETUP Execution time:  1
+Perf	INFO	2021-06-25T14:21:35.483-04:00	1415244882.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	RELOAD_APPLICATION Execution time:  1
+Perf	INFO	2021-06-25T14:21:35.483-04:00	1415245110.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Reload Application complete, performance summary follows:
+Perf	INFO	2021-06-25T14:21:35.483-04:00	1415245265.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	{"value":"GET_DOCUMENT","steps":[{"value":"GET_FEATURE_FLAGS","steps":[{"value":"RELOAD_QUEUE","steps":[],"duration_ms":0},{"value":"INIT_DATA_MANAGER","steps":[],"duration_ms":0},{"value":"RELOAD_APPLICATION","steps":[{"value":"SCRIPT_GEN_SETUP","steps":[],"duration_ms":1}],"duration_ms":1}],"duration_ms":-1}],"duration_ms":0}
+Perf	INFO	2021-06-25T14:21:35.484-04:00	1415246026.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_TABLES_AND_KEYS
+Perf	INFO	2021-06-25T14:21:35.485-04:00	1415246623.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GET_TABLES_AND_KEYS Execution time:  1
+Perf	INFO	2021-06-25T14:21:35.485-04:00	1415247093.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	CALCULATE_FIELDS_FOR_NOT_FOUND_AND_TRANSFORMED: Field count: 0
+Perf	INFO	2021-06-25T14:21:35.486-04:00	1415247588.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	CALCULATE_FIELDS_FOR_NOT_FOUND_AND_TRANSFORMED: Field count: 0 Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.486-04:00	1415247766.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SAMPLES_AND_MIN_MAX
+Perf	INFO	2021-06-25T14:21:35.487-04:00	1415248906.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SAMPLE_VALUE_RETRIEVAL: Field count: 0
+Perf	INFO	2021-06-25T14:21:35.488-04:00	1415250325.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SAMPLE_VALUE_RETRIEVAL: Field count: 0 Execution time:  1
+Perf	INFO	2021-06-25T14:21:35.489-04:00	1415250579.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SAMPLE_VALUE_UPDATING
+Perf	INFO	2021-06-25T14:21:35.489-04:00	1415250836.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SAMPLE_VALUE_UPDATING Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.489-04:00	1415251415.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	MINMAX
+Perf	INFO	2021-06-25T14:21:35.491-04:00	1415252989.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	MINMAX Execution time:  2
+Perf	INFO	2021-06-25T14:21:35.491-04:00	1415253316.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	NUMERIC_RATIO
+Perf	INFO	2021-06-25T14:21:35.495-04:00	1415257320.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	NUMERIC_RATIO Execution time:  4
+Perf	INFO	2021-06-25T14:21:35.495-04:00	1415257538.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	SAMPLES_AND_MIN_MAX Execution time:  9
+Perf	INFO	2021-06-25T14:21:35.496-04:00	1415257809.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	CLASSIFICATION_ANALYSIS
+Perf	INFO	2021-06-25T14:21:35.496-04:00	1415258532.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	CLASSIFICATION_PIPELINE
+Perf	INFO	2021-06-25T14:21:35.497-04:00	1415258801.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: Tokenizer
+Perf	INFO	2021-06-25T14:21:35.497-04:00	1415259030	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: Tokenizer Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.497-04:00	1415259295.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: CaptionDecorator
+Perf	INFO	2021-06-25T14:21:35.497-04:00	1415259504	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: CaptionDecorator Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.498-04:00	1415259862.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: DateTime
+Perf	INFO	2021-06-25T14:21:35.498-04:00	1415260012.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: DateTime Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.498-04:00	1415260197.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: MissingValue
+Perf	INFO	2021-06-25T14:21:35.498-04:00	1415260328.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: MissingValue Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.498-04:00	1415260538.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: CompoundValue
+Perf	INFO	2021-06-25T14:21:35.499-04:00	1415260668.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: CompoundValue Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.499-04:00	1415260824.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: RecommendedDataType
+Perf	INFO	2021-06-25T14:21:35.499-04:00	1415260954.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: RecommendedDataType Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.499-04:00	1415261106.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: ValueDecorator
+Perf	INFO	2021-06-25T14:21:35.499-04:00	1415261252.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: ValueDecorator Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.499-04:00	1415261517.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: SemanticClassifier
+Perf	INFO	2021-06-25T14:21:35.500-04:00	1415261656.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: SemanticClassifier Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.500-04:00	1415261939.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: AdhocTransformations
+Perf	INFO	2021-06-25T14:21:35.500-04:00	1415262087.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: AdhocTransformations Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.500-04:00	1415262320.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: AdhocCompoundValue
+Perf	INFO	2021-06-25T14:21:35.500-04:00	1415262453.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: AdhocCompoundValue Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.501-04:00	1415262635.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: ValueBasedGeoClassifier
+Perf	INFO	2021-06-25T14:21:35.501-04:00	1415262791.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: ValueBasedGeoClassifier Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.501-04:00	1415262969.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: CrossDatasetClassifier
+Perf	INFO	2021-06-25T14:21:35.501-04:00	1415263237.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: CrossDatasetClassifier Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.501-04:00	1415263461	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: TimeBoundMeasureFinder
+Perf	INFO	2021-06-25T14:21:35.502-04:00	1415263619.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	Annotation Step: TimeBoundMeasureFinder Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.502-04:00	1415263784.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	CLASSIFICATION_PIPELINE Execution time:  5
+Perf	INFO	2021-06-25T14:21:35.502-04:00	1415264122.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	CLASSIFICATION_ANALYSIS Execution time:  6
+Perf	INFO	2021-06-25T14:21:35.502-04:00	1415264513.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	APPLY_CLASSIFICATION_TO_LOAD_MODEL
+Perf	INFO	2021-06-25T14:21:35.503-04:00	1415265336.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	APPLY_CLASSIFICATION_TO_LOAD_MODEL Execution time:  0
+Perf	INFO	2021-06-25T14:21:35.503-04:00	1415265503.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	ASSOCIATION_SCORING
+Perf	INFO	2021-06-25T14:21:35.504-04:00	1415265876.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	ASSOCIATION_PAIRWISE_SCORES
+Perf	INFO	2021-06-25T14:21:35.505-04:00	1415266673.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	ASSOCIATION_PAIRWISE_SCORES Execution time:  1
+Perf	INFO	2021-06-25T14:21:36.420-04:00	1416181892.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	ASSOCIATION_SCORING Execution time:  916

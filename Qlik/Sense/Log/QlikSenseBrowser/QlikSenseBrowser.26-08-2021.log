@@ -1,0 +1,233 @@
+
+------------
+
+Starting Qlik Sense Desktop...
+Date: qui ago 26 13:06:39 2021
+Path: C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/QlikSenseBrowser.exe
+
+PID13276 - 2021-08-26T13:06:39.619 - DEBUG - EventBroadcaster::EventBroadcaster - Listening...
+PID13276 - 2021-08-26T13:06:39.624 - DEBUG - Hub configuration directory not found: "C:/Users/leninne.pirovano/OneDrive - SCHEFFER/Documentos/Qlik/Sense/Hubs/"
+PID13276 - 2021-08-26T13:06:40.159 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T13:06:40.159 - DEBUG - Loading RCC from: "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser\\qrc_QlikSenseBrowser.rcc"
+PID13276 - 2021-08-26T13:06:41.727 - DEBUG - Authentication Service: Handling event 'start' while in state  WaitingForStartState
+PID13276 - 2021-08-26T13:06:41.729 - DEBUG - Could not find entry in Windows Storage
+PID13276 - 2021-08-26T13:06:41.734 - DEBUG - Entry not found in INI file
+PID13276 - 2021-08-26T13:06:41.737 - DEBUG - Changing state from  WaitingForStartState  to  ShowingHubListSelection
+PID13276 - 2021-08-26T13:06:41.758 - WARNING - QLayout: Attempting to add QLayout "" to HubListWidget "BrowserContainerWidget", which already has a layout
+PID13276 - 2021-08-26T13:06:41.759 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/translations/pt-BR/qsbrowser.json"
+PID13276 - 2021-08-26T13:06:41.767 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/translations/en-US/qsbrowser.json"
+PID13276 - 2021-08-26T13:06:41.994 - DEBUG - BasicCefClient::OnLoadingStateChange - URL:    true   false   false
+PID13276 - 2021-08-26T13:06:42.034 - DEBUG - BasicCefClient::OnLoadingStateChange - URL:    true   false   false
+PID13276 - 2021-08-26T13:06:42.503 - DEBUG - BasicCefClient::OnLoadStart - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...
+PID13276 - 2021-08-26T13:06:42.508 - DEBUG - BasicCefClient::VisitCookies - Cookie URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...
+PID14260 - 2021-08-26T13:06:42.506 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar..."
+PID14260 - 2021-08-26T13:06:42.507 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: EventBroadcaster.js
+PID14260 - 2021-08-26T13:06:42.511 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/EventBroadcaster.js"
+PID14260 - 2021-08-26T13:06:42.524 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: RememberPasswordFlagTracker.js
+PID14260 - 2021-08-26T13:06:42.525 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/RememberPasswordFlagTracker.js"
+PID14260 - 2021-08-26T13:06:42.531 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: HubList.js
+PID14260 - 2021-08-26T13:06:42.531 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/HubList.js"
+PID13276 - 2021-08-26T13:06:42.533 - DEBUG - BasicCefClient::OnLoadStart - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist
+PID13276 - 2021-08-26T13:06:42.535 - DEBUG - BasicCefClient::VisitCookies - Cookie URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist
+PID13876 - 2021-08-26T13:06:42.535 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist"
+PID13876 - 2021-08-26T13:06:42.535 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: EventBroadcaster.js
+PID13876 - 2021-08-26T13:06:42.535 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/EventBroadcaster.js"
+PID13876 - 2021-08-26T13:06:42.537 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: RememberPasswordFlagTracker.js
+PID13876 - 2021-08-26T13:06:42.537 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/RememberPasswordFlagTracker.js"
+PID13876 - 2021-08-26T13:06:42.538 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: HubList.js
+PID13876 - 2021-08-26T13:06:42.538 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/HubList.js"
+PID14260 - 2021-08-26T13:06:42.539 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: UrlReader.js
+PID14260 - 2021-08-26T13:06:42.539 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/UrlReader.js"
+PID13876 - 2021-08-26T13:06:42.539 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: UrlReader.js
+PID13876 - 2021-08-26T13:06:42.540 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/UrlReader.js"
+PID14260 - 2021-08-26T13:06:42.545 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: WebSocketConnector.js
+PID14260 - 2021-08-26T13:06:42.545 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/WebSocketConnector.js"
+PID13876 - 2021-08-26T13:06:42.547 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: WebSocketConnector.js
+PID13876 - 2021-08-26T13:06:42.547 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/WebSocketConnector.js"
+PID14260 - 2021-08-26T13:06:42.553 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: FriendlyWebFormDetector.js
+PID14260 - 2021-08-26T13:06:42.553 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/FriendlyWebFormDetector.js"
+PID13876 - 2021-08-26T13:06:42.553 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: FriendlyWebFormDetector.js
+PID13876 - 2021-08-26T13:06:42.554 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/FriendlyWebFormDetector.js"
+PID13276 - 2021-08-26T13:06:42.633 - DEBUG - BasicCefClient::OnLoadEnd - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...
+PID13276 - 2021-08-26T13:06:42.634 - DEBUG - BasicCefClient::OnLoadingStateChange - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...   false   false   false
+PID13276 - 2021-08-26T13:06:42.663 - DEBUG - BasicCefClient::OnLoadEnd - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist
+PID13276 - 2021-08-26T13:06:42.663 - DEBUG - EventBroadcaster::broadcastEvent - WEB_PAGE_LOADED {    "errorFlag": false}
+PID13276 - 2021-08-26T13:06:42.664 - DEBUG - EventBroadcaster::onLocalServerNewConnection - New connection
+PID13276 - 2021-08-26T13:06:42.664 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Ready read
+PID13276 - 2021-08-26T13:06:42.664 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Event name :  WEB_PAGE_LOADED ; Event content:  {    "errorFlag": false}
+PID13276 - 2021-08-26T13:06:42.664 - DEBUG - Authentication Service: Unexpected event 'WebPageLoadedEvent' while in state  ShowingHubListSelection
+PID13276 - 2021-08-26T13:06:42.667 - DEBUG - BasicCefClient::OnLoadingStateChange - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist   false   false   false
+PID13276 - 2021-08-26T13:06:42.804 - INFO - CEF Console - Bootstrapping angular...  (Line 19 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/app.js)
+PID13276 - 2021-08-26T13:06:42.815 - INFO - CEF Console - App config phase running...  (Line 43 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/app.js)
+PID13876 - 2021-08-26T13:06:42.874 - DEBUG - JavascriptCallbackHandler::Execute - Any function args passed from JS to C++ must be a single array of strings
+PID13276 - 2021-08-26T13:06:42.874 - INFO - CEF Console - HubListController instantiated  (Line 117 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/dist/angular.min.js)
+PID13876 - 2021-08-26T13:06:42.875 - DEBUG - Hub configuration directory not found: "C:/Users/leninne.pirovano/OneDrive - SCHEFFER/Documentos/Qlik/Sense/Hubs/"
+PID13276 - 2021-08-26T13:06:42.876 - INFO - CEF Console - Loaded 0 hubs: []  (Line 117 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/dist/angular.min.js)
+PID13276 - 2021-08-26T13:07:21.387 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T13:07:32.549 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T13:07:34.105 - DEBUG - EventBroadcaster::broadcastEvent - EVENT_NAME_SKIP_NAVIGATION_BUTTON_PRESSED {}
+PID13276 - 2021-08-26T13:07:34.106 - DEBUG - EventBroadcaster::onLocalServerNewConnection - New connection
+PID13276 - 2021-08-26T13:07:34.106 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Ready read
+PID13276 - 2021-08-26T13:07:34.106 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Event name :  EVENT_NAME_SKIP_NAVIGATION_BUTTON_PRESSED ; Event content:  {}
+PID13276 - 2021-08-26T13:07:34.106 - DEBUG - Changing state from  ShowingHubListSelection  to  WaitingForEngineUnlockResultState
+PID13276 - 2021-08-26T13:07:34.135 - WARNING - QObject::connect: No such signal QNetworkAccessManager::error(QNetworkReply::NetworkError)
+PID13276 - 2021-08-26T13:07:34.135 - WARNING - QObject::connect: No such signal QNetworkAccessManager::sslErrors(const QList<QSslError> &)
+PID13276 - 2021-08-26T13:07:34.507 - DEBUG - EngineUnlocker::onLockToggleFinished: status code is  QVariant(int, 200)
+PID13276 - 2021-08-26T13:07:34.507 - DEBUG - EventBroadcaster::broadcastEvent - ENGINE_LOCK_STATE_CHANGE {    "errorFlag": false,    "lockState": false}
+PID13276 - 2021-08-26T13:07:34.508 - DEBUG - EventBroadcaster::onLocalServerNewConnection - New connection
+PID13276 - 2021-08-26T13:07:34.509 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Ready read
+PID13276 - 2021-08-26T13:07:34.509 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Event name :  ENGINE_LOCK_STATE_CHANGE ; Event content:  {    "errorFlag": false,    "lockState": false}
+PID13276 - 2021-08-26T13:07:34.509 - DEBUG - Changing state from  WaitingForEngineUnlockResultState  to  ShowingLocalHubState
+PID7256 - 2021-08-26T13:07:34.941 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "http://localhost:4848/hub/feature/desktop_authentication"
+PID7256 - 2021-08-26T13:07:34.941 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: EventBroadcaster.js
+PID7256 - 2021-08-26T13:07:34.941 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/EventBroadcaster.js"
+PID7256 - 2021-08-26T13:07:34.941 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: RememberPasswordFlagTracker.js
+PID7256 - 2021-08-26T13:07:34.941 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/RememberPasswordFlagTracker.js"
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: HubList.js
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/HubList.js"
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: UrlReader.js
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/UrlReader.js"
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: WebSocketConnector.js
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/WebSocketConnector.js"
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: FriendlyWebFormDetector.js
+PID7256 - 2021-08-26T13:07:34.951 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/FriendlyWebFormDetector.js"
+PID13276 - 2021-08-26T13:07:35.748 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID7256 - 2021-08-26T13:07:40.856 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T13:09:27.013 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T13:13:02.582 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T13:14:27.378 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:14:27.382 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:14:27.386 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:14:27.391 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:14:27.393 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:14:27.396 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:14:33.568 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T13:16:31.471 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T13:36:42.927 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.932 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.940 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.949 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.952 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.954 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.956 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.958 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.959 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.961 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.962 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.964 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.965 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.967 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.971 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:36:42.974 - INFO - CEF Console - TypeError: Cannot read property 'componentsDef' of undefined  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID13276 - 2021-08-26T13:40:17.344 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T13:40:43.453 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T13:42:08.537 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T13:43:44.286 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID7256 - 2021-08-26T13:43:51.982 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID7256 - 2021-08-26T13:43:55.321 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID7256 - 2021-08-26T13:44:10.781 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "about:blank"
+PID13276 - 2021-08-26T13:44:40.261 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:44:40.261 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:44:40.262 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:44:40.307 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID13276 - 2021-08-26T13:44:40.316 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:44:40.401 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:44:40.401 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID7256 - 2021-08-26T13:51:10.332 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "about:blank"
+PID13276 - 2021-08-26T13:51:22.782 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:51:22.782 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:51:22.783 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:51:22.791 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:51:22.828 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID13276 - 2021-08-26T13:51:22.865 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:51:22.865 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID7256 - 2021-08-26T13:57:24.937 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T13:57:36.823 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:57:36.824 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:57:36.824 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:57:36.836 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:57:36.857 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID13276 - 2021-08-26T13:57:36.901 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T13:57:36.901 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:25:03.658 - DEBUG - WebView::closeBrowser( 0x20474 )
+
+PID7256 - 2021-08-26T14:26:07.187 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T14:26:09.591 - DEBUG - WebView::closeBrowser( 0x3085c )
+
+PID13276 - 2021-08-26T14:26:11.448 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:26:11.448 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:26:11.449 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:26:11.470 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:26:11.487 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID13276 - 2021-08-26T14:26:11.585 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:26:11.585 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID7256 - 2021-08-26T14:26:21.800 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T14:28:22.425 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T14:28:25.440 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID7256 - 2021-08-26T14:30:16.597 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T14:38:21.183 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:38:21.185 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:38:21.188 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:38:21.193 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:38:21.197 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:38:21.201 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:19.000 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:19.000 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:19.000 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:19.047 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:19.075 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID13276 - 2021-08-26T14:40:19.156 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:19.156 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID7256 - 2021-08-26T14:40:52.286 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T14:40:56.304 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:56.304 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:56.304 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:56.330 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:56.356 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID13276 - 2021-08-26T14:40:56.400 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:40:56.401 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T14:45:46.279 - DEBUG - WebView::closeBrowser( 0x14088e )
+
+PID13276 - 2021-08-26T14:45:52.757 - DEBUG - WebView::closeBrowser( 0x50850 )
+
+PID13276 - 2021-08-26T14:48:55.207 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T14:48:58.817 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T14:51:59.053 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T14:52:41.778 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T15:01:10.746 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T15:02:35.915 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T15:14:08.795 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T15:17:31.768 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T15:24:33.829 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T15:26:13.195 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID7256 - 2021-08-26T15:29:14.058 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID13276 - 2021-08-26T15:29:27.302 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:29:27.304 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:29:27.307 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:29:27.311 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:29:27.315 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:29:27.323 - INFO - CEF Console - %c Note ! color: black; background-color: #ffd42a Widgets and Custom Components are deprecated and will be removed in a future release (August 2021).  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:32:10.848 - INFO - CEF Console - qlik.app.variable.setContent() is deprecated since 2.1, use setNumValue method or setStringValue method instead.  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:32:10.848 - INFO - CEF Console - qlik.app.variable.setContent() is deprecated since 2.1, use setNumValue method or setStringValue method instead.  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID13276 - 2021-08-26T15:34:43.038 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T15:34:44.456 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T15:57:02.769 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T16:03:40.069 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T16:50:53.261 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID13276 - 2021-08-26T16:57:15.379 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID13276 - 2021-08-26T16:57:22.502 - DEBUG - WebView::closeBrowser( 0xe082e )
+
+PID13276 - 2021-08-26T16:57:22.997 - DEBUG - WebView::closeBrowser( 0x90844 )
+
+PID13276 - 2021-08-26T16:57:23.389 - DEBUG - WebView::closeBrowser( 0x2607f4 )
+
+PID13276 - 2021-08-26T16:57:26.797 - DEBUG - WebView::closeBrowser( 0x2607f4 )
+
+PID13276 - 2021-08-26T16:57:27.548 - DEBUG - WebView::closeBrowser( 0xb06fe )
+
+PID13276 - 2021-08-26T16:57:31.541 - DEBUG - WebView::closeBrowser( 0x20474 )
+
+PID13276 - 2021-08-26T16:57:33.892 - DEBUG - WebView::closeBrowser( 0x2706fc )
+
+PID13276 - 2021-08-26T16:57:34.755 - WARNING - QObject::connect: No such signal QNetworkAccessManager::error(QNetworkReply::NetworkError)
+PID13276 - 2021-08-26T16:57:34.755 - WARNING - QObject::connect: No such signal QNetworkAccessManager::sslErrors(const QList<QSslError> &)

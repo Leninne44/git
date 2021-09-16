@@ -1,0 +1,87 @@
+Logger	Severity	Date	MicroSeconds	AppId	UserId	Message
+Perf	INFO	2021-08-02T13:30:23.584-04:00	250729331186.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	MASTER_LIB_PARSE_MEASURES count: 39
+Perf	INFO	2021-08-02T13:30:23.585-04:00	250729332084.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 225
+Perf	INFO	2021-08-02T13:30:23.797-04:00	250729544342.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 225 Execution time:  212
+Perf	INFO	2021-08-02T13:30:23.798-04:00	250729544482.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 57
+Perf	INFO	2021-08-02T13:30:23.868-04:00	250729614655.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 57 Execution time:  70
+Perf	INFO	2021-08-02T13:30:23.868-04:00	250729614764.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 201
+Perf	INFO	2021-08-02T13:30:24.026-04:00	250729773036.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 201 Execution time:  158
+Perf	INFO	2021-08-02T13:30:24.026-04:00	250729773156.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 210
+Perf	INFO	2021-08-02T13:30:24.173-04:00	250729919534.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 210 Execution time:  147
+Perf	INFO	2021-08-02T13:30:24.173-04:00	250729919628.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 206
+Perf	INFO	2021-08-02T13:30:24.326-04:00	250730073298.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 206 Execution time:  153
+Perf	INFO	2021-08-02T13:30:24.326-04:00	250730073392.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 202
+Perf	INFO	2021-08-02T13:30:24.465-04:00	250730211607.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 202 Execution time:  139
+Perf	INFO	2021-08-02T13:30:24.465-04:00	250730211702.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 206
+Perf	INFO	2021-08-02T13:30:24.600-04:00	250730347040.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 206 Execution time:  135
+Perf	INFO	2021-08-02T13:30:24.600-04:00	250730347129	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 219
+Perf	INFO	2021-08-02T13:30:24.736-04:00	250730482770.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 219 Execution time:  136
+Perf	INFO	2021-08-02T13:30:24.736-04:00	250730482859.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 57
+Perf	INFO	2021-08-02T13:30:24.800-04:00	250730546472.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 57 Execution time:  63
+Perf	INFO	2021-08-02T13:30:24.800-04:00	250730546553.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 229
+Perf	INFO	2021-08-02T13:30:24.932-04:00	250730678978.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 229 Execution time:  132
+Perf	INFO	2021-08-02T13:30:24.932-04:00	250730679102	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 220
+Perf	INFO	2021-08-02T13:30:25.073-04:00	250730820034.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 220 Execution time:  141
+Perf	INFO	2021-08-02T13:30:25.073-04:00	250730820114.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 230
+Perf	INFO	2021-08-02T13:30:25.198-04:00	250730944498.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 230 Execution time:  124
+Perf	INFO	2021-08-02T13:30:25.198-04:00	250730944586.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 227
+Perf	INFO	2021-08-02T13:30:25.323-04:00	250731069523.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 227 Execution time:  125
+Perf	INFO	2021-08-02T13:30:25.323-04:00	250731069599	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 227
+Perf	INFO	2021-08-02T13:30:25.457-04:00	250731203657.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 227 Execution time:  134
+Perf	INFO	2021-08-02T13:30:25.457-04:00	250731203743.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 211
+Perf	INFO	2021-08-02T13:30:25.601-04:00	250731348152.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 211 Execution time:  144
+Perf	INFO	2021-08-02T13:30:25.601-04:00	250731348330.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 220
+Perf	INFO	2021-08-02T13:30:25.755-04:00	250731501722.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 220 Execution time:  154
+Perf	INFO	2021-08-02T13:30:25.755-04:00	250731501801.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 216
+Perf	INFO	2021-08-02T13:30:25.889-04:00	250731635724.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 216 Execution time:  134
+Perf	INFO	2021-08-02T13:30:25.889-04:00	250731635800.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 203
+Perf	INFO	2021-08-02T13:30:26.022-04:00	250731769099.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 203 Execution time:  133
+Perf	INFO	2021-08-02T13:30:26.022-04:00	250731769187.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 207
+Perf	INFO	2021-08-02T13:30:26.161-04:00	250731907468.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 207 Execution time:  138
+Perf	INFO	2021-08-02T13:30:26.161-04:00	250731907547.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 221
+Perf	INFO	2021-08-02T13:30:26.306-04:00	250732052709.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 221 Execution time:  145
+Perf	INFO	2021-08-02T13:30:26.306-04:00	250732052785.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 239
+Perf	INFO	2021-08-02T13:30:26.441-04:00	250732188118.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 239 Execution time:  135
+Perf	INFO	2021-08-02T13:30:26.441-04:00	250732188195.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 230
+Perf	INFO	2021-08-02T13:30:26.573-04:00	250732320006.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 230 Execution time:  132
+Perf	INFO	2021-08-02T13:30:26.573-04:00	250732320080.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 240
+Perf	INFO	2021-08-02T13:30:26.716-04:00	250732463264.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 240 Execution time:  143
+Perf	INFO	2021-08-02T13:30:26.716-04:00	250732463339.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 237
+Perf	INFO	2021-08-02T13:30:26.843-04:00	250732590018.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 237 Execution time:  127
+Perf	INFO	2021-08-02T13:30:26.843-04:00	250732590092.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 237
+Perf	INFO	2021-08-02T13:30:26.970-04:00	250732717170.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 237 Execution time:  127
+Perf	INFO	2021-08-02T13:30:26.970-04:00	250732717243.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 67
+Perf	INFO	2021-08-02T13:30:27.026-04:00	250732772974	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 67 Execution time:  56
+Perf	INFO	2021-08-02T13:30:27.026-04:00	250732773047.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 67
+Perf	INFO	2021-08-02T13:30:27.082-04:00	250732828941.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 67 Execution time:  56
+Perf	INFO	2021-08-02T13:30:27.082-04:00	250732829013.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 199
+Perf	INFO	2021-08-02T13:30:27.207-04:00	250732954061.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 199 Execution time:  125
+Perf	INFO	2021-08-02T13:30:27.207-04:00	250732954135.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 199
+Perf	INFO	2021-08-02T13:30:27.336-04:00	250733083278.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 199 Execution time:  129
+Perf	INFO	2021-08-02T13:30:27.336-04:00	250733083350.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 204
+Perf	INFO	2021-08-02T13:30:27.476-04:00	250733222929.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 204 Execution time:  140
+Perf	INFO	2021-08-02T13:30:27.476-04:00	250733223014.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 191
+Perf	INFO	2021-08-02T13:30:27.614-04:00	250733361176.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 191 Execution time:  138
+Perf	INFO	2021-08-02T13:30:27.614-04:00	250733361249.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 195
+Perf	INFO	2021-08-02T13:30:27.768-04:00	250733515279.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 195 Execution time:  154
+Perf	INFO	2021-08-02T13:30:27.768-04:00	250733515354.6	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 217
+Perf	INFO	2021-08-02T13:30:27.899-04:00	250733645494.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 217 Execution time:  130
+Perf	INFO	2021-08-02T13:30:27.899-04:00	250733645566	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 227
+Perf	INFO	2021-08-02T13:30:28.037-04:00	250733783813.4	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 227 Execution time:  138
+Perf	INFO	2021-08-02T13:30:28.037-04:00	250733783901.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 218
+Perf	INFO	2021-08-02T13:30:28.181-04:00	250733928283	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 218 Execution time:  144
+Perf	INFO	2021-08-02T13:30:28.181-04:00	250733928358.9	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 218
+Perf	INFO	2021-08-02T13:30:28.359-04:00	250734105764.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 218 Execution time:  178
+Perf	INFO	2021-08-02T13:30:28.359-04:00	250734105836.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 225
+Perf	INFO	2021-08-02T13:30:28.496-04:00	250734243367.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 225 Execution time:  137
+Perf	INFO	2021-08-02T13:30:28.496-04:00	250734243437.8	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 55
+Perf	INFO	2021-08-02T13:30:28.556-04:00	250734302634.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 55 Execution time:  59
+Perf	INFO	2021-08-02T13:30:28.556-04:00	250734302704.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 55
+Perf	INFO	2021-08-02T13:30:28.618-04:00	250734364729.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 55 Execution time:  62
+Perf	INFO	2021-08-02T13:30:28.618-04:00	250734364809.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	MASTER_LIB_PARSE_MEASURES count: 39 Execution time:  5033
+Perf	INFO	2021-08-02T13:30:28.618-04:00	250734364958.2	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	MASTER_LIB_PARSE_DIMENSIONS count: 1
+Perf	INFO	2021-08-02T13:30:28.618-04:00	250734365123.7	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 3
+Perf	INFO	2021-08-02T13:30:28.665-04:00	250734411694.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 3 Execution time:  47
+Perf	INFO	2021-08-02T13:30:28.665-04:00	250734411764.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 12
+Perf	INFO	2021-08-02T13:30:28.714-04:00	250734460735.5	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	PARSE_EXPRESSION length:: 12 Execution time:  49
+Perf	INFO	2021-08-02T13:30:28.714-04:00	250734460819.3	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	MASTER_LIB_PARSE_DIMENSIONS count: 1 Execution time:  96

@@ -1,0 +1,5 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210730T155224.430-0400	CBATIDSK017365	2.13.0	Global	INFO	API listening on port: 9077
+2	20210730T155224.434-0400	CBATIDSK017365	2.13.0	Global	INFO	Tmp dir: C:\Users\LENINN~1.PIR\AppData\Local\Temp\content
+3	20210730T155224.435-0400	CBATIDSK017365	2.13.0	Global	INFO	Desktop mode: Using directory C:\Users\leninne.pirovano\AppData\Local\Programs\Qlik\Sense\ConverterService\content
+4	20210730T155224.439-0400	CBATIDSK017365	2.13.0	Global	INFO	Listening on port 9077

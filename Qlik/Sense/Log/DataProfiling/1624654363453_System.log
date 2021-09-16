@@ -1,0 +1,6 @@
+Logger	Severity	Date	MicroSeconds	Message
+System	INFO	2021-06-25T16:52:43.454-04:00	10483868331.7	Starting DataPrep Service, version 3.316.2
+System	INFO	2021-06-25T16:52:43.459-04:00	10483872873.9	Configuration dataPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense, logLevel=info, logToConsole=undefined, logPath=C:\Users\leninne.pirovano\Documents\Qlik\Sense\Log, isSecure=false, ttl=-1, keepAlive=-1, port=9072, hostname=127.0.0.1, engineport=9076, cacheFolderName=DataPrepAppCache, cacheConnectionName=DataPrepAppCache, qvdCleanupInterval=3600, qvdExpirationDays=7
+System	INFO	2021-06-25T16:52:43.459-04:00	10483873348.2	Creating server
+System	INFO	2021-06-25T16:52:43.460-04:00	10483874174.5	Setting up the server 
+System	INFO	2021-06-25T16:52:43.846-04:00	10484260136.7	Server listening at port 9072

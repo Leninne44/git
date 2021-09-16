@@ -1,0 +1,3 @@
+127.0.0.1 - - [29/Jun/2021:16:57:47 +0000] "GET /v1/list HTTP/1.1" 200 15444 "-" "-"
+127.0.0.1 - - [29/Jun/2021:16:58:55 +0000] "GET /v1/list HTTP/1.1" 200 15444 "http://localhost:4848/hub/feature/desktop_authentication" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.0 Safari/537.36 USC/1.0"
+127.0.0.1 - - [29/Jun/2021:17:00:11 +0000] "GET / HTTP/1.1" 200 2964 "http://localhost:4848/sense/app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CBusiness%20performance.qvf/feature/desktop_authentication" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.0 Safari/537.36 USC/1.0"

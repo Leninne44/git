@@ -1,0 +1,2 @@
+Logger	Severity	Date	MicroSeconds	ipAddress	AppId	UserId	Message
+Trace	INFO	2021-06-25T14:21:33.352-04:00	1413113667.1	-	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Business performance	-	GetRecommendations failed, errorClass: RpcError detectedAsNotification:true Error json:  {"code":1005,"name":"DataProfiling.Error.ReloadInProgress","message":"Internal reload is in progress","notification":true}

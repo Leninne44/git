@@ -1,0 +1,68 @@
+Sequence#	Timestamp	Hostname	Version	Logger	Severity	Message
+1	20210723T125745.236-0400	127.0.0.1	5.35.0	Global	INFO	Configuration: {"context":"desktop","version":"5.35.0","port":"4848","additionalPort":"9070","hostname":"127.0.0.1","dataPath":"C:\\Users\\leninne.pirovano\\Documents\\Qlik\\Sense","globPath":"C:\\Users\\leninne.pirovano\\AppData\\Local\\Programs\\Qlik\\Sense\\BrokerService\\service-configs","logPath":"C:\\Users\\leninne.pirovano\\Documents\\Qlik\\Sense\\Log","ssl":0}
+2	20210723T125745.240-0400	127.0.0.1	5.35.0	Global	INFO	Globbing for services in: C:\Users\leninne.pirovano\AppData\Local\Programs\Qlik\Sense\BrokerService\service-configs
+3	20210723T125745.322-0400	127.0.0.1	5.35.0	Global	INFO	Found service configs: C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/about.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/ads.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/bot-channel.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/capability.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/connector-registry-proxy.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/converter.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/dbws.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/depgraph.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/downloadprep.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/dps.desktop.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/dps.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/engine.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/enginerest.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/export.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/hds.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/hub.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/hybrid-setup-console.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/nl-app-search.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/nl-broker.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/odag.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/precedent.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/qdc.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/qep.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/qmr.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/qns.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/wcs.json,C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/BrokerService/service-configs/wes.json
+4	20210723T125745.432-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/about/* to 127.0.0.1:9078
+5	20210723T125745.434-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v1/locale/* to 127.0.0.1:9078
+6	20210723T125745.435-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/capability/* to 127.0.0.1:9075
+7	20210723T125745.435-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v0/features/* to 127.0.0.1:9075
+8	20210723T125745.436-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v1/features/* to 127.0.0.1:9075
+9	20210723T125745.436-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/connector-registry-proxy/* to 127.0.0.1:9051
+10	20210723T125745.437-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/converter/* to 127.0.0.1:9077
+11	20210723T125745.438-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/depgraph/* to 127.0.0.1:9033
+12	20210723T125745.438-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/downloadprep/* to 127.0.0.1:9090
+13	20210723T125745.439-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding websockets against /dataprepservice/* to 127.0.0.1:9072
+14	20210723T125745.443-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/dataprepservice/* to 127.0.0.1:9072
+15	20210723T125745.444-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /content/* to 127.0.0.1:9076
+16	20210723T125745.444-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /customdata/* to 127.0.0.1:9076
+17	20210723T125745.447-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /dataloadeditor/* to 127.0.0.1:9076
+18	20210723T125745.448-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /datamodelviewer/* to 127.0.0.1:9076
+19	20210723T125745.449-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /dev-hub/* to 127.0.0.1:9076
+20	20210723T125745.450-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /engine/* to 127.0.0.1:9076
+21	20210723T125745.450-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /v1/apps/* to 127.0.0.1:9076
+22	20210723T125745.451-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /exports/* to 127.0.0.1:9076
+23	20210723T125745.453-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /extensions/* to 127.0.0.1:9076
+24	20210723T125745.454-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /healthcheck/* to 127.0.0.1:9076
+25	20210723T125745.455-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /hub/* to 127.0.0.1:9076
+26	20210723T125745.455-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /simple-hub/* to 127.0.0.1:9076
+27	20210723T125745.456-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /media/* to 127.0.0.1:9076
+28	20210723T125745.457-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /qrs/* to 127.0.0.1:9076
+29	20210723T125745.460-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /resources/* to 127.0.0.1:9076
+30	20210723T125745.461-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /sense/* to 127.0.0.1:9076
+31	20210723T125745.461-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /single/* to 127.0.0.1:9076
+32	20210723T125745.462-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /unlock/* to 127.0.0.1:9076
+33	20210723T125745.462-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding websockets against /app/* to 127.0.0.1:9076
+34	20210723T125745.463-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/export/* to 127.0.0.1:9073
+35	20210723T125745.463-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/hub/* to 127.0.0.1:9071
+36	20210723T125745.464-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/msc/* to 127.0.0.1:5929
+37	20210723T125745.464-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/dsc/* to 127.0.0.1:5929
+38	20210723T125745.465-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v1/nlsearch/* to 127.0.0.1:4953
+39	20210723T125745.465-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v1/sentences/* to 127.0.0.1:9055
+40	20210723T125745.466-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v1/narrative/* to 127.0.0.1:9055
+41	20210723T125745.466-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/v1/nl/query/* to 127.0.0.1:9055
+42	20210723T125745.466-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/odag/* to 127.0.0.1:9098
+43	20210723T125745.467-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/precedent/* to 127.0.0.1:9054
+44	20210723T125745.468-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/qmr/* to 127.0.0.1:9082
+45	20210723T125745.468-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/notifier/* to 127.0.0.1:9081
+46	20210723T125745.469-0400	127.0.0.1	5.35.0	Global	INFO	Forwarding requests against /api/wes/* to 127.0.0.1:9034
+47	20210723T125745.489-0400	127.0.0.1	5.35.0	Global	WARN	Could not retrieve capability list, x-qlik-capabilities header will NOT be sent: connect ECONNREFUSED 127.0.0.1:9075
+48	20210723T125745.519-0400	127.0.0.1	5.35.0	Global	INFO	Listening to additional desktop port 9070
+49	20210723T125745.520-0400	127.0.0.1	5.35.0	Global	INFO	Listening on 127.0.0.1:4848
+50	20210723T125758.182-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+51	20210723T125758.409-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+52	20210723T125901.031-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fsense%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication to http://127.0.0.1:9076/
+53	20210723T125901.838-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+54	20210723T125902.343-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /dataprepservice/app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fsense%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication to http://127.0.0.1:9072/
+55	20210723T130120.594-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fdataloadeditor%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication to http://127.0.0.1:9076/
+56	20210723T130122.712-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /dataprepservice/app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fdataloadeditor%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication to http://127.0.0.1:9072/
+57	20210723T130124.154-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fdatamodelviewer%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication to http://127.0.0.1:9076/
+58	20210723T130127.209-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /dataprepservice/app/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf?reloadUri=http%3A%2F%2Flocalhost%3A4848%2Fdatamodelviewer%2Fapp%2FC%253A%255CUsers%255Cleninne.pirovano%255COneDrive%2520-%2520SCHEFFER%255CDocumentos%255CQlik%255CSense%255CApps%255CAnalise%2520US.qvf%2Ffeature%2Fdesktop_authentication to http://127.0.0.1:9072/
+59	20210723T133027.228-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+60	20210723T133232.825-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+61	20210723T134024.866-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+62	20210723T135224.622-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+63	20210723T135226.669-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+64	20210723T135227.977-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+65	20210723T144432.352-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+66	20210723T152755.818-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/
+67	20210723T162615.305-0400	127.0.0.1	5.35.0	Global	INFO	Proxying websocket: /app/engineData?reloadUri= to http://127.0.0.1:9076/

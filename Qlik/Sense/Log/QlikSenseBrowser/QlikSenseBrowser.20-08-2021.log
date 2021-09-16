@@ -1,0 +1,127 @@
+
+------------
+
+Starting Qlik Sense Desktop...
+Date: sex ago 20 13:03:14 2021
+Path: C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/QlikSenseBrowser.exe
+
+PID26980 - 2021-08-20T13:03:14.833 - DEBUG - EventBroadcaster::EventBroadcaster - Listening...
+PID26980 - 2021-08-20T13:03:14.833 - DEBUG - Hub configuration directory not found: "C:/Users/leninne.pirovano/OneDrive - SCHEFFER/Documentos/Qlik/Sense/Hubs/"
+PID26980 - 2021-08-20T13:03:14.980 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T13:03:14.980 - DEBUG - Loading RCC from: "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser\\qrc_QlikSenseBrowser.rcc"
+PID26980 - 2021-08-20T13:03:16.296 - DEBUG - Authentication Service: Handling event 'start' while in state  WaitingForStartState
+PID26980 - 2021-08-20T13:03:16.305 - DEBUG - Could not find entry in Windows Storage
+PID26980 - 2021-08-20T13:03:16.305 - DEBUG - Entry not found in INI file
+PID26980 - 2021-08-20T13:03:16.305 - DEBUG - Changing state from  WaitingForStartState  to  ShowingHubListSelection
+PID26980 - 2021-08-20T13:03:16.320 - WARNING - QLayout: Attempting to add QLayout "" to HubListWidget "BrowserContainerWidget", which already has a layout
+PID26980 - 2021-08-20T13:03:16.321 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/translations/pt-BR/qsbrowser.json"
+PID26980 - 2021-08-20T13:03:16.327 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/translations/en-US/qsbrowser.json"
+PID26980 - 2021-08-20T13:03:16.416 - DEBUG - BasicCefClient::OnLoadingStateChange - URL:    true   false   false
+PID26980 - 2021-08-20T13:03:16.424 - DEBUG - BasicCefClient::OnLoadingStateChange - URL:    true   false   false
+PID26980 - 2021-08-20T13:03:16.592 - DEBUG - BasicCefClient::OnLoadStart - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...
+PID1260 - 2021-08-20T13:03:16.592 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar..."
+PID1260 - 2021-08-20T13:03:16.592 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: EventBroadcaster.js
+PID1260 - 2021-08-20T13:03:16.592 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/EventBroadcaster.js"
+PID26980 - 2021-08-20T13:03:16.592 - DEBUG - BasicCefClient::VisitCookies - Cookie URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...
+PID1260 - 2021-08-20T13:03:16.592 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: RememberPasswordFlagTracker.js
+PID1260 - 2021-08-20T13:03:16.592 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/RememberPasswordFlagTracker.js"
+PID26980 - 2021-08-20T13:03:16.606 - DEBUG - BasicCefClient::OnLoadStart - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist
+PID26980 - 2021-08-20T13:03:16.606 - DEBUG - BasicCefClient::VisitCookies - Cookie URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist"
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: EventBroadcaster.js
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/EventBroadcaster.js"
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: RememberPasswordFlagTracker.js
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/RememberPasswordFlagTracker.js"
+PID1260 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: HubList.js
+PID1260 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/HubList.js"
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: HubList.js
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/HubList.js"
+PID1260 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: UrlReader.js
+PID1260 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/UrlReader.js"
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: UrlReader.js
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/UrlReader.js"
+PID1260 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: WebSocketConnector.js
+PID1260 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/WebSocketConnector.js"
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: WebSocketConnector.js
+PID12472 - 2021-08-20T13:03:16.606 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/WebSocketConnector.js"
+PID12472 - 2021-08-20T13:03:16.623 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: FriendlyWebFormDetector.js
+PID12472 - 2021-08-20T13:03:16.623 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/FriendlyWebFormDetector.js"
+PID1260 - 2021-08-20T13:03:16.623 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: FriendlyWebFormDetector.js
+PID1260 - 2021-08-20T13:03:16.623 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/FriendlyWebFormDetector.js"
+PID26980 - 2021-08-20T13:03:16.665 - DEBUG - BasicCefClient::OnLoadEnd - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...
+PID26980 - 2021-08-20T13:03:16.666 - DEBUG - BasicCefClient::OnLoadingStateChange - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/rain-loader-raw.html?message=Aguardar...   false   false   false
+PID26980 - 2021-08-20T13:03:16.703 - DEBUG - BasicCefClient::OnLoadEnd - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist
+PID26980 - 2021-08-20T13:03:16.703 - DEBUG - EventBroadcaster::broadcastEvent - WEB_PAGE_LOADED {    "errorFlag": false}
+PID26980 - 2021-08-20T13:03:16.704 - DEBUG - BasicCefClient::OnLoadingStateChange - URL: file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/index.html#/hublist   false   false   false
+PID26980 - 2021-08-20T13:03:16.704 - DEBUG - EventBroadcaster::onLocalServerNewConnection - New connection
+PID26980 - 2021-08-20T13:03:16.704 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Ready read
+PID26980 - 2021-08-20T13:03:16.704 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Event name :  WEB_PAGE_LOADED ; Event content:  {    "errorFlag": false}
+PID26980 - 2021-08-20T13:03:16.704 - DEBUG - Authentication Service: Unexpected event 'WebPageLoadedEvent' while in state  ShowingHubListSelection
+PID26980 - 2021-08-20T13:03:17.260 - INFO - CEF Console - Bootstrapping angular...  (Line 19 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/app.js)
+PID26980 - 2021-08-20T13:03:17.266 - INFO - CEF Console - App config phase running...  (Line 43 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/app.js)
+PID26980 - 2021-08-20T13:03:17.299 - INFO - CEF Console - HubListController instantiated  (Line 117 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/dist/angular.min.js)
+PID12472 - 2021-08-20T13:03:17.299 - DEBUG - JavascriptCallbackHandler::Execute - Any function args passed from JS to C++ must be a single array of strings
+PID12472 - 2021-08-20T13:03:17.300 - DEBUG - Hub configuration directory not found: "C:/Users/leninne.pirovano/OneDrive - SCHEFFER/Documentos/Qlik/Sense/Hubs/"
+PID26980 - 2021-08-20T13:03:17.301 - INFO - CEF Console - Loaded 0 hubs: []  (Line 117 of file:///C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/web/dist/angular.min.js)
+PID26980 - 2021-08-20T13:03:18.176 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T13:04:10.021 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID26980 - 2021-08-20T13:04:11.485 - DEBUG - EventBroadcaster::broadcastEvent - EVENT_NAME_SKIP_NAVIGATION_BUTTON_PRESSED {}
+PID26980 - 2021-08-20T13:04:11.485 - DEBUG - EventBroadcaster::onLocalServerNewConnection - New connection
+PID26980 - 2021-08-20T13:04:11.485 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Ready read
+PID26980 - 2021-08-20T13:04:11.485 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Event name :  EVENT_NAME_SKIP_NAVIGATION_BUTTON_PRESSED ; Event content:  {}
+PID26980 - 2021-08-20T13:04:11.485 - DEBUG - Changing state from  ShowingHubListSelection  to  WaitingForEngineUnlockResultState
+PID26980 - 2021-08-20T13:04:11.530 - WARNING - QObject::connect: No such signal QNetworkAccessManager::error(QNetworkReply::NetworkError)
+PID26980 - 2021-08-20T13:04:11.530 - WARNING - QObject::connect: No such signal QNetworkAccessManager::sslErrors(const QList<QSslError> &)
+PID26980 - 2021-08-20T13:04:11.920 - DEBUG - EngineUnlocker::onLockToggleFinished: status code is  QVariant(int, 200)
+PID26980 - 2021-08-20T13:04:11.920 - DEBUG - EventBroadcaster::broadcastEvent - ENGINE_LOCK_STATE_CHANGE {    "errorFlag": false,    "lockState": false}
+PID26980 - 2021-08-20T13:04:11.920 - DEBUG - EventBroadcaster::onLocalServerNewConnection - New connection
+PID26980 - 2021-08-20T13:04:11.922 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Ready read
+PID26980 - 2021-08-20T13:04:11.922 - DEBUG - EventBroadcaster::onLocalServerReadyRead - Event name :  ENGINE_LOCK_STATE_CHANGE ; Event content:  {    "errorFlag": false,    "lockState": false}
+PID26980 - 2021-08-20T13:04:11.922 - DEBUG - Changing state from  WaitingForEngineUnlockResultState  to  ShowingLocalHubState
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - BrowserApp::OnContextCreated - Browser Url - "http://localhost:4848/hub/feature/desktop_authentication"
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: EventBroadcaster.js
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/EventBroadcaster.js"
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: RememberPasswordFlagTracker.js
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/RememberPasswordFlagTracker.js"
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: HubList.js
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/HubList.js"
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: UrlReader.js
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/UrlReader.js"
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: WebSocketConnector.js
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/WebSocketConnector.js"
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - JavascriptBridge::getAllInjectableCode - Loading file: FriendlyWebFormDetector.js
+PID19544 - 2021-08-20T13:04:12.364 - DEBUG - PlatformServices::getFileContents - Attempting to load file contents of:  "C:/Users/leninne.pirovano/AppData/Local/Programs/Qlik/Sense/QlikSenseBrowser/FriendlyWebFormDetector.js"
+PID26980 - 2021-08-20T13:04:13.205 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID19544 - 2021-08-20T13:04:31.467 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID26980 - 2021-08-20T13:21:23.814 - INFO - CEF Console - Error: There is no data set for the key "CLIPBOARD_MEASURE_ITEM". Please use contains() first to verify you should actually do a get().  (Line 9 of http://localhost:4848/resources/angular.5d70517993a70efcf109.js)
+PID19544 - 2021-08-20T13:40:59.251 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID26980 - 2021-08-20T13:41:02.083 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T14:30:24.943 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID19544 - 2021-08-20T14:30:31.892 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID26980 - 2021-08-20T14:30:35.601 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:30:35.601 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:30:35.601 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:30:35.691 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID26980 - 2021-08-20T14:30:35.702 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:30:35.933 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:30:35.933 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:41:36.935 - DEBUG - WebView::closeBrowser( 0x607da )
+
+PID26980 - 2021-08-20T14:42:08.575 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T14:47:00.598 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID26980 - 2021-08-20T14:47:54.333 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:47:54.333 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:47:54.334 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:47:54.359 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:47:54.427 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:47:54.427 - INFO - CEF Console - This plugin is unsupported and deprecated, use instead angularjs $injector  (Line 9 of http://localhost:4848/resources/setup-view.20119ca1528f8a8092aa.js)
+PID26980 - 2021-08-20T14:47:54.436 - DEBUG - JSON:  "{\n    \"data\": [\n        {\n            \"attributes\": {\n                \"name\": \"\",\n                \"userDirectory\": \"\",\n                \"userId\": \"\"\n            }\n        }\n    ],\n    \"links\": {\n        \"self\": \"/user/info/\"\n    }\n}\n"
+PID19544 - 2021-08-20T14:48:02.821 - DEBUG - BrowserApp::OnContextCreated - Browser Url - ""
+PID26980 - 2021-08-20T15:13:28.510 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T15:14:50.846 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID26980 - 2021-08-20T15:30:14.469 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T15:30:34.553 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID26980 - 2021-08-20T16:54:54.022 - DEBUG - QlikSenseBrowser::changeEvent - Minimized
+PID26980 - 2021-08-20T16:56:09.609 - DEBUG - QlikSenseBrowser::changeEvent - Restored to visible
+PID26980 - 2021-08-20T16:58:37.234 - WARNING - QObject::connect: No such signal QNetworkAccessManager::error(QNetworkReply::NetworkError)
+PID26980 - 2021-08-20T16:58:37.234 - WARNING - QObject::connect: No such signal QNetworkAccessManager::sslErrors(const QList<QSslError> &)

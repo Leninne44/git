@@ -1,0 +1,5 @@
+Logger	Severity	Date	MicroSeconds	ipAddress	AppId	UserId	Message
+Request	INFO	2021-07-22T16:41:59.696-04:00	73542922.4	127.0.0.1	-	-	request GET /v1/openapi?xrfkey=d8sGLjW3fax6MsuH 1626986519693
+Request	INFO	2021-07-22T16:41:59.756-04:00	73603643.3	127.0.0.1	-	-	response GET /v1/openapi?xrfkey=d8sGLjW3fax6MsuH 1626986519693 200
+Request	INFO	2021-07-22T16:42:00.949-04:00	74795734.2	127.0.0.1	C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US	-	request GET /v1/apps/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf/model/current?xrfkey=rOwdxjfe7i1TATM0 1626986520948
+Request	INFO	2021-07-22T16:42:01.026-04:00	74873292.3	127.0.0.1	C:\Users\leninne.pirovano\OneDrive - SCHEFFER\Documentos\Qlik\Sense\Apps\Analise US	-	response GET /v1/apps/C%3A%5CUsers%5Cleninne.pirovano%5COneDrive%20-%20SCHEFFER%5CDocumentos%5CQlik%5CSense%5CApps%5CAnalise%20US.qvf/model/current?xrfkey=rOwdxjfe7i1TATM0 1626986520948 200
